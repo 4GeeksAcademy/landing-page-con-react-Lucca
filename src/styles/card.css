@@ -1,0 +1,15 @@
+
+.card-placeholder {
+    height: 200px;
+    background-color: #adb0b3; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-placeholder-text {
+    color: #7f8081;
+    margin: 0; 
+
+  }
+  
