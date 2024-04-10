@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: #2c2b2b; 
+  }
+  
+  .navbar .nav-link {
+    color: #ffffff; 
+  }
+  
+  .navbar .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  .navbar .nav-link.active {
+    color: #ffd700;
+  }
+  
+  .navbar-toggler {
+    border-color: #dddddd;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #ffffff;
+  }

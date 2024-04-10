@@ -9,7 +9,29 @@
   
   .card-placeholder-text {
     color: #7f8081;
-    margin: 0; 
+    margin: 0;
+    font-size: 40px; 
+    font-weight: bold;
 
   }
-  
+
+  .card-text{
+    margin-top: 20px;
+    padding-left: 15px;
+    text-align: center;
+  }
+
+  .card-title{
+    font-weight: bold;
+    font-size: medium;
+    margin-top: -30px;
+
+  }
+
+.btn-primary{
+  margin-top: -5px;
+}
+
+  .line{
+    margin-top: 50px;
+  }
